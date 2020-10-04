@@ -15,7 +15,7 @@ Chat App á la Whats App
 
 - In order to provide a clear, logical flow, Sign up and Login is added so you can login in the app in different browsers with different users and chat between them in real-time.
 - A list of hardcoded users are provided which can be seen when a user logs in. With each sign up, new user will be added to this list.
-- You can sign up as new user or use this test login credential for first time login - `test@test.com / 123qwe`
+- You can sign up as new user or use this test login credential for first time login - `test1@test.com / 123qwe`
 - You should be able to see the open chats with the test user. Alternatively you can add user from the nav bar to start chatting with them.
 - Displays and Stores the chat history.
 
